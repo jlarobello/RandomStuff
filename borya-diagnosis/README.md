@@ -1,2 +1,2 @@
-# Classroom Watch
+# Borya-Diagnosis
 http://codeforces.com/contest/875/problem/A
